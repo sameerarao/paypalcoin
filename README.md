@@ -1,3 +1,3 @@
 # bitpaypal
 
-A curated Etsy storefront which accepts PayPal and bitcoins as payments, leveraging APIs from Estsy, PayPal and coinbase.
+A KrakenJS based nodeJS app for a curated Etsy storefront which accepts PayPal and bitcoins as payments. Leverages APIs from Estsy, PayPal and coinbase.
